@@ -40,18 +40,23 @@ cek ip
 
 
 # Install  PuTTY
-1. Tambahkan Repository Universe
+## 1. Tambahkan Repository Universe
+
    ![a](https://github.com/user-attachments/assets/ba9425c5-15a6-4e47-8e1f-6682e9a0f400)
    
-2. Update setelah menambahkan Repository
+## 3. Update setelah menambahkan Repository
+
    ![b](https://github.com/user-attachments/assets/077157db-de03-421d-9b99-1c8a6a7621d3)
    
-3. Install  PuTTY
+## 4. Install  PuTTY
+
    ![c](https://github.com/user-attachments/assets/572a654a-c61d-4b58-87e2-bbf0ee8bba8c)
    
-4. Menampikan Versi PuTTY
-  ![f](https://github.com/user-attachments/assets/07c2246c-7e8d-4fed-aa33-49312e41853e)
+## 5. Menampikan Versi PuTTY
+  
+   ![f](https://github.com/user-attachments/assets/07c2246c-7e8d-4fed-aa33-49312e41853e)
 
-5. Tampilan pada saat PuTTY dibuka
+## 8. Tampilan pada saat PuTTY dibuka
+ 
   ![g](https://github.com/user-attachments/assets/38dab127-7008-4201-895c-661a57f01ac3)
 
